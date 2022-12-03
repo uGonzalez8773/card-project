@@ -165,9 +165,9 @@ body{
     grid-template-rows: repeat(5, min-content);
   }
 
-/*   .testimonial {
+  .testimonial {
     grid-area: unset;
-  } */
+  }
 
   #comilla {
     right: 24px;
